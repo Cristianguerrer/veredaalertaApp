@@ -28,5 +28,5 @@ VeredaAlerta es una aplicación web diseñada para alertar a la comunidad en una
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/veredaalerta.git
+git clone https://github.com/Cristianguerrer/veredaalertaApp.git
 cd veredaalerta
